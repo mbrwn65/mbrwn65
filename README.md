@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Michael!
 
 🔭 Currently searching for a junior Data Analyst/Scientist role.<br/>
-🏫 Bachelors in Linguistics at The University of Texas at Austin w/ a minor in Computer Science & Focus on Data Science & Analytics.<br/>
-🛠️ Proficient in: Python, Machine Learning Basics, Microsoft Office, Basic Tableau, Statistics, Syntax & Semantics.<br/>
-📚 Learning: SQL, Advanced Tableau, Advanced Excel, Machine Learning.<br/>
+🏫 Bachelors in Linguistics at The University of Texas at Austin w/ Minor in Computer Science & Focus on Data Science & Analytics.<br/>
+🛠️ Skilled in: Python, Tableau, SQL, Microsoft Excel, Statistics, Machine Learning Basics, Syntax & Semantics.<br/>
 
